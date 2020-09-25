@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include "main.h"
+#define PWR_MGMT_1 0X6B
+#define SAMPLE_RATE 0x19
+#define GYRO_CONFIG 0x1B
+#define ACCEL_CONFIG 0x1C
+#define INT_ENABLE 0x38
+#define USER_CTRL 0x6A
+void mpu6050(){
+	uint8_t d[2];
+	uint8_t device_address = 0xD0;
+	d[0] = PWR_MGMT_1;
+	d[1] = 0;
+	while (HAL_I2C_Master_Transmit(&hi2c1, (uint16_t)device_address, (uint8_t*)d, 2, 1000) != HAL_OK);
+	d[0] = SAMPLE_RATE;
+	d[1] = 0x07;
+	while (HAL_I2C_Master_Transmit(&hi2c1, (uint16_t)device_address, (uint8_t*)d, 2, 1000) != HAL_OK);
+	d[0] = GYRO_CONFIG;
+	d[1] = 0x1B;
+	while (HAL_I2C_Master_Transmit(&hi2c1, (uint16_t)device_address, (uint8_t*)d, 2, 1000) != HAL_OK);
+	d[0] = ACCEL_CONFIG;
+	d[1] = 0;
+	while (HAL_I2C_Master_Transmit(&hi2c1, (uint16_t)device_address, (uint8_t*)d, 2, 1000) != HAL_OK);
+	d[0] = INT_ENABLE;
+	d[1] = 0x01;
+	while (HAL_I2C_Master_Transmit(&hi2c1, (uint16_t)device_address, (uint8_t*)d, 2, 1000) != HAL_OK);
+	d[0] = USER_CTRL;
+	d[1] = 0;
+	while (HAL_I2C_Master_Transmit(&hi2c1, (uint16_t)device_address, (uint8_t*)d, 2, 1000) != HAL_OK);
+	uint8_t data[14];
+	float Acc_x, Acc_y, Acc_z;
+	float Gyr_x, Gyr_y, Gyr_z;
+	while (HAL_I2C_Master_Transmit(&hi2c1, (uint16_t)device_address, 0x3B, 1, 1000) != HAL_OK);
+	while(HAL_I2C_Master_Receive(&hi2c1, (uint16_t)device_address, data, 14, 1000) != HAL_OK);
+	Acc_x = (int16_t)(data[0] << 8 | data[1]);
+	Acc_y = (int16_t)(data[2] << 8 | data[3]);
+	Acc_z = (int16_t)(data[4] << 8 | data[5]);
+	Gyr_x = (int16_t)(data[8] << 8 | data[9]);
+	Gyr_y = (int16_t)(data[10] << 8 | data[11]);
+	Gyr_z = (int16_t)(data[12] << 8 | data[13]);
+}

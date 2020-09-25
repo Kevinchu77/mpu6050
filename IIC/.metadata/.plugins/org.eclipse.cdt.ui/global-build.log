@@ -1,0 +1,190 @@
+22:22:18 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:22:54 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:25:24 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:26:10 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:26:22 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:26:23 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:26:38 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:26:41 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:27:02 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:27:40 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:28:12 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:33:07 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:34:10 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:34:39 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:35:02 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:35:04 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:35:58 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:36:32 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:37:46 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:39:15 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9576	     20	   1652	  11248	   2bf0	mpu6050.elf
+Finished building: default.size.stdout
+ 
+22:43:34 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/mpu6050.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DUSE_HAL_DRIVER -DSTM32F103xB -DDEBUG -c -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/mpu6050.d" -MT"Core/Src/mpu6050.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/mpu6050.o"
+../Core/Src/mpu6050.c: In function 'mpu6050':
+../Core/Src/mpu6050.c:34:67: warning: passing argument 3 of 'HAL_I2C_Master_Transmit' makes pointer from integer without a cast [-Wint-conversion]
+  while (HAL_I2C_Master_Transmit(&hi2c1, (uint16_t)device_address, 0x3B, 1, 1000) != HAL_OK);
+                                                                   ^~~~
+In file included from ../Core/Inc/stm32f1xx_hal_conf.h:297:0,
+                 from ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h:30,
+                 from ../Core/Inc/main.h:31,
+                 from ../Core/Src/mpu6050.c:2:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h:564:19: note: expected 'uint8_t * {aka unsigned char *}' but argument is of type 'int'
+ HAL_StatusTypeDef HAL_I2C_Master_Transmit(I2C_HandleTypeDef *hi2c, uint16_t DevAddress, uint8_t *pData, uint16_t Size, uint32_t Timeout);
+                   ^~~~~~~~~~~~~~~~~~~~~~~
+../Core/Src/mpu6050.c:33:22: warning: variable 'Gyr_z' set but not used [-Wunused-but-set-variable]
+  float Gyr_x, Gyr_y, Gyr_z;
+                      ^~~~~
+../Core/Src/mpu6050.c:33:15: warning: variable 'Gyr_y' set but not used [-Wunused-but-set-variable]
+  float Gyr_x, Gyr_y, Gyr_z;
+               ^~~~~
+../Core/Src/mpu6050.c:33:8: warning: variable 'Gyr_x' set but not used [-Wunused-but-set-variable]
+  float Gyr_x, Gyr_y, Gyr_z;
+        ^~~~~
+../Core/Src/mpu6050.c:32:22: warning: variable 'Acc_z' set but not used [-Wunused-but-set-variable]
+  float Acc_x, Acc_y, Acc_z;
+                      ^~~~~
+../Core/Src/mpu6050.c:32:15: warning: variable 'Acc_y' set but not used [-Wunused-but-set-variable]
+  float Acc_x, Acc_y, Acc_z;
+               ^~~~~
+../Core/Src/mpu6050.c:32:8: warning: variable 'Acc_x' set but not used [-Wunused-but-set-variable]
+  float Acc_x, Acc_y, Acc_z;
+        ^~~~~
+arm-none-eabi-gcc -o "mpu6050.elf" @"objects.list"   -mcpu=cortex-m3 -T"E:\IIC\mpu6050\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="mpu6050.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: mpu6050.elf
+ 
+arm-none-eabi-objdump -h -S  mpu6050.elf  > "mpu6050.list"
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9536	     20	   1652	  11208	   2bc8	mpu6050.elf
+Finished building: default.size.stdout
+ 
+Finished building: mpu6050.list
+ 
+23:18:16 **** Incremental Build of configuration Debug for project mpu6050 ****
+make -j12 all 
+arm-none-eabi-size   mpu6050.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9536	     20	   1652	  11208	   2bc8	mpu6050.elf
+Finished building: default.size.stdout
+ 
