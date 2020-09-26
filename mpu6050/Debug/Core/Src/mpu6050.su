@@ -1,0 +1,2 @@
+mpu6050.c:11:6:mpu_init	24	static
+mpu6050.c:32:6:mpu_read_data	56	static
